@@ -1,0 +1,21 @@
+{
+  "name": "eltrans",
+  "version": "0.0.1",
+  "description": "ELement TRANSformer - bulk modify HTML files with jQuery-like syntax",
+  "main": "index.js",
+  "bin": {
+    "eltrans": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K Olsen <pentaphobe@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cheerio": "^0.22.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  }
+}
