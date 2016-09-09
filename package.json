@@ -10,7 +10,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "K Olsen <pentaphobe@gmail.com>",
-  "license": "ISC",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/pentaphobe/eltrans.git"
+  },
+  "license": "MIT",
   "dependencies": {
     "chalk": "^1.1.3",
     "cheerio": "^0.22.0",
