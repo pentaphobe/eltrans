@@ -29,3 +29,11 @@ eltrans ./src 'style' '$el.remove()'
 
 ```
 
+## Features
+
+- [x] modify HTML by selectors
+- [ ] Options needing commandline args
+  - [ ] JS replacer patterns
+  - [ ] dry run
+  - [ ] quiet
+
